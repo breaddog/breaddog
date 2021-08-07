@@ -2,8 +2,8 @@
 
 Yaki Onigiri [🍙](https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw)
 
-Love/Hate relationship with C
-Comfortable with Full-stack Development
+Love/Hate relationship with C,
+Comfortable with JavaScript
 
 Intrigued by AI, Enjoy problem solving 
 
