@@ -9,4 +9,5 @@ Intrigued by Technology, Enjoy problem solving and learning new Things
 Currently on Ethereum.
 
 Coffee Addict (Pour Overs + Flair Espresso Based)
-8 Memberships isnt too much right?
+
+8 Memberships isnt too much right..?
