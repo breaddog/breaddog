@@ -10,7 +10,7 @@ Platforms
 * Node.js
 * Ethereum (NFT's mostly)
 
-Intrigued by Technology, Enjoy problem solving and learning new things.
+Creative mind (design/UI/UX oriented). Technology is fun.
 
 Coffee Addict (Pour Overs)
 
