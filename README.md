@@ -1,6 +1,6 @@
 # About Me
 
-Yaki Onigiri [🍙](https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw)
+Yaki Onigiriya [🍙](https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw)
 
 Stack:
 * JavaScript
@@ -8,9 +8,11 @@ Stack:
 
 Platforms
 * Node.js
-* Ethereum (NFT's mostly)
+* React
+* Ethereum
 
-Creative mind (design/UI/UX oriented). Technology is fun.
+
+Creative mind (design/UI/UX oriented).
 
 Coffee Addict (Pour Overs)
 
