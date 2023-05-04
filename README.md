@@ -1,10 +1,10 @@
 # About Me
 
-Yaki Onigiriya [🍙](https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw)
+Yaki Onigiri [🍙](https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw)
 
 Stack:
-* JavaScript
-* Solidity
+* JS/TS
+* CSS/SCSS
 
 Platforms
 * Node.js
@@ -14,6 +14,8 @@ Platforms
 
 Creative mind (design/UI/UX oriented).
 
+Project Manager and Flexible Developer.
+
 Coffee Addict (Pour Overs)
 
-9 Memberships isnt too much right..?
+11 Memberships isnt too much right..?
