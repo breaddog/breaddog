@@ -10,6 +10,8 @@ Platforms
 * Node.js
 * React
 
+View my personal site [here](https://tienfoong.com)
+
 
 Creative mind (design/UI/UX oriented).
 
