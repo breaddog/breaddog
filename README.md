@@ -9,12 +9,11 @@ Stack:
 Platforms
 * Node.js
 * React
-* Ethereum
 
 
 Creative mind (design/UI/UX oriented).
 
-Project Manager and Flexible Developer.
+Project Manager, Front-end and mostly flexible Developer.
 
 Coffee Addict (Pour Overs)
 
