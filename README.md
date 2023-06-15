@@ -1,10 +1,8 @@
 # Tien
-
 An aspiring web developer and designer that is always keen to learn.
 
 
 ## About Me
-
 I have a [personal website][link-personal], do give it a visit!
 <ul>
   <li>Foodie 🍜</li>
