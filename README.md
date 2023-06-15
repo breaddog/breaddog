@@ -1,8 +1,7 @@
 # Tien
 
-<p>
-  Hi there! I'm <b>Tien</b>, an aspiring web developer and designer that is always keen to learn!.
-</p>
+An aspiring web developer and designer that is always keen to learn.
+
 
 ## About Me
 
@@ -17,6 +16,7 @@ I have a [personal website][link-personal], do give it a visit!
 
 
 ## Experience
+
 <details open="open">
 <summary>Primary Skills</summary>
   <ul>
