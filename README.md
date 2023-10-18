@@ -9,7 +9,7 @@ I have a [personal website][link-personal], do give it a visit!
   <li>Anime  	📺</li>
   <li>Coffee <s>Addict</s> Enthusiast ☕</li>
   <li>Rhythm Games/Music 🎹</li>
-    <li><a href="https://hololive.hololivepro.com/en/talents/nekomata-okayu/" target="_blank" rel="noopener noreferrer">Yaki Onigiriya 🍙</a></li>
+    <li><a href="https://hololive.hololivepro.com/en/talents/nekomata-okayu/" target="_blank" rel="noopener noreferrer">Yaki Onigiri 🍙</a></li>
 </ul>
 
 
@@ -53,6 +53,7 @@ I have a [personal website][link-personal], do give it a visit!
 ### Packages and Tools
 [![Node.js][shield-nodejs]][link-nodejs]
 [![React][shield-react]][link-react]
+[![Angular][shield-angular]][link-angular]
 [![Sass][shield-sass]][link-sass]
 [![NPM][shield-npm]][link-npm]
 [![IPFS][shield-ipfs]][link-ipfs]
@@ -85,6 +86,7 @@ I have a [personal website][link-personal], do give it a visit!
 [link-sass]: https://sass-lang.com/
 [link-solidity]: https://docs.soliditylang.org/
 [link-python]: https://www.python.org/
+[link-angular]: https://angular.io/
 
 <!-- TOOLS -->
 [link-npm]: https://www.npmjs.com/
@@ -113,6 +115,7 @@ I have a [personal website][link-personal], do give it a visit!
 [shield-sass]: https://shields.io/badge/Sass-%23CC6699?logo=sass&logoColor=%23FFF&style=flat-square
 [shield-solidity]: https://shields.io/badge/Solidity-%23363636?logo=solidity&logoColor=%23FFF&style=flat-square
 [shield-python]: https://shields.io/badge/Python-%233776AB?logo=python&logoColor=%23FFF&style=flat-square
+[shield-angular]: https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square
 
 
 <!-- TOOLS -->
