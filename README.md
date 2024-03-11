@@ -47,7 +47,6 @@ I have a [personal website][link-personal], do give it a visit!
 [![HTML5][shield-html5]][link-html5]
 [![CSS][shield-css]][link-css]
 [![Python][shield-python]][link-python]
-[![Solidity][shield-solidity]][link-solidity]
 
 
 ### Packages and Tools
@@ -56,7 +55,6 @@ I have a [personal website][link-personal], do give it a visit!
 [![Angular][shield-angular]][link-angular]
 [![Sass][shield-sass]][link-sass]
 [![NPM][shield-npm]][link-npm]
-[![IPFS][shield-ipfs]][link-ipfs]
 [![Figma][shield-figma]][link-figma]
 [![Git][shield-git]][link-git]
 [![Github][shield-github]][link-github]
@@ -84,7 +82,6 @@ I have a [personal website][link-personal], do give it a visit!
 [link-html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [link-css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [link-sass]: https://sass-lang.com/
-[link-solidity]: https://docs.soliditylang.org/
 [link-python]: https://www.python.org/
 [link-angular]: https://angular.io/
 
@@ -92,7 +89,6 @@ I have a [personal website][link-personal], do give it a visit!
 [link-npm]: https://www.npmjs.com/
 [link-nodejs]: https://nodejs.org/
 [link-react]: https://react.dev/
-[link-ipfs]: https://ipfs.tech/
 [link-notion]: https://www.notion.so/about
 [link-figma]: https://www.figma.com/ui-design-tool/
 
@@ -113,17 +109,14 @@ I have a [personal website][link-personal], do give it a visit!
 [shield-html5]: https://shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=%23ebebeb&style=flat-square
 [shield-css]: https://shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%23ebebeb&style=flat-square
 [shield-sass]: https://shields.io/badge/Sass-%23CC6699?logo=sass&logoColor=%23FFF&style=flat-square
-[shield-solidity]: https://shields.io/badge/Solidity-%23363636?logo=solidity&logoColor=%23FFF&style=flat-square
 [shield-python]: https://shields.io/badge/Python-%233776AB?logo=python&logoColor=%23FFF&style=flat-square
 [shield-angular]: https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square
 
 
 <!-- TOOLS -->
-
 [shield-npm]: https://shields.io/badge/NPM-%23CB3837?logo=npm&logoColor=%23FFF&style=flat-square
 [shield-nodejs]: https://shields.io/badge/Node%2Ejs-%23339933?logo=node%2Ejs&logoColor=%23FFF&style=flat-square
 [shield-react]: https://shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23444&style=flat-square
-[shield-ipfs]: https://shields.io/badge/IPFS-%2365C2CB?logo=ipfs&logoColor=%23FFF&style=flat-square
 [shield-notion]: https://shields.io/badge/Notion-%23000?logo=notion&logoColor=%23FFF&style=flat-square
 [shield-figma]: https://shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=%23FFF&style=flat-square
 
