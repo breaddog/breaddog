@@ -54,8 +54,8 @@ I have a [personal website][link-personal], do give it a visit!
 [![React][shield-react]][link-react]
 [![Angular][shield-angular]][link-angular]
 [![Sass][shield-sass]][link-sass]
+[![Jasmine][shield-jasmine]][link-jasmine]
 [![NPM][shield-npm]][link-npm]
-[![Figma][shield-figma]][link-figma]
 [![Git][shield-git]][link-git]
 [![Github][shield-github]][link-github]
 [![Notion][shield-notion]][link-notion]
@@ -90,7 +90,7 @@ I have a [personal website][link-personal], do give it a visit!
 [link-nodejs]: https://nodejs.org/
 [link-react]: https://react.dev/
 [link-notion]: https://www.notion.so/about
-[link-figma]: https://www.figma.com/ui-design-tool/
+[link-jasmine]: https://jasmine.github.io/
 
 <!-- INFRASTRUCTURE -->
 [link-git]: https://git-scm.com/
@@ -118,7 +118,7 @@ I have a [personal website][link-personal], do give it a visit!
 [shield-nodejs]: https://shields.io/badge/Node%2Ejs-%23339933?logo=node%2Ejs&logoColor=%23FFF&style=flat-square
 [shield-react]: https://shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23444&style=flat-square
 [shield-notion]: https://shields.io/badge/Notion-%23000?logo=notion&logoColor=%23FFF&style=flat-square
-[shield-figma]: https://shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=%23FFF&style=flat-square
+[shield-jasmine]: https://shields.io/badge/Jasmine-%238A4182?logo=jasmine&logoColor=%23FFF&style=flat-square
 
 
 <!-- INFRASTRUCTURE -->
