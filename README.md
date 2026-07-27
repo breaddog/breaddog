@@ -10,6 +10,7 @@ I have a [personal website][link-personal], do give it a visit!
   <li>Coffee <s>Addict</s> Enthusiast ☕</li>
   <li>Rhythm Games/Music 🎹</li>
     <li><a href="https://hololive.hololivepro.com/en/talents/nekomata-okayu/" target="_blank" rel="noopener noreferrer">Yaki Onigiri 🍙</a></li>
+    <li><a href="https://pjsekai.sega.jp/character/unite05/mizuki/index.html" target="_blank" rel="noopener noreferrer">Mizuki Oshi 🎀</li>
 </ul>
 
 
